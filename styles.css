@@ -1,0 +1,14 @@
+img {
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+}
+
+body {
+    font-family: 'Solway';
+    font-size: 20px;
+}
+
+* {
+    background-color: lightpink;
+}
